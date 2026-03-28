@@ -88,6 +88,6 @@ Esto permite ejecutar la aplicación sin necesidad de tener Python instalado.
 
 Proyecto desarrollado por:
 
-**Mercy-2003-may**
+**Mercy Amaya**
 
 Como parte de una actividad académica sobre desarrollo de aplicaciones GUI en Python.
